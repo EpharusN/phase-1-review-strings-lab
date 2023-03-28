@@ -27,7 +27,6 @@ The first test is telling us that `currentUser` is not defined. Let's go to
 ```js
 const currentUser = 'Grace Hopper';
 ```
-
 > **Note**: Generally, when the tests ask you to define something, you want to
 > define it exactly as indicated in the test. But in this case, you don't have
 > to write `'Grace Hopper'`, because the important part is the variable name:
